@@ -7,14 +7,12 @@
     --color6:#d0baa9;
     --color7:#9e8e91;
     --color8:#5b4a68;
+    
 }
 #navbar{
     background-color: var(--color1);
     color:white;
 }
-#navbar-izq{
-    background-color: var(--color2);
-}
-#navbar-der{
-    background-color: var(--color3);
+a{
+    background-color: #332F35;
 }
