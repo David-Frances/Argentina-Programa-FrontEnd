@@ -13,6 +13,19 @@
     background-color: var(--color1);
     color:white;
 }
-a{
-    background-color: #332F35;
+#perfil{
+    margin-top: -10rem;
+    margin-left: 1.5rem;
+    width: 20%;
+    height: auto;
+    
+}
+#banner{
+    width: 100%;
+}
+.separator{
+    height: 1px;
+    width: 100%;
+    background-color: var(--color1);
+    margin-top: 3rem;
 }
